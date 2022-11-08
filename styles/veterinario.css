@@ -1,0 +1,17 @@
+body{
+   background-image: url(../assets/img/vet.jpeg); 
+   background-repeat: no-repeat;
+   background-size: 100%;
+  
+}
+form{
+    width: 100px;
+    display: flex;
+}
+fieldset{
+    border: none;
+}
+input{
+    border-radius: 10px;
+    background-color: rgba(181, 136, 222, 0.317);
+}

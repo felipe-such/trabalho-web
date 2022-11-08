@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #333;
+}
+
+header {
+    background-color: #555;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.title {
+    font-weight: 700;
+    color: white;
+    margin: 20px 0;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style: none;
+    margin: 0 10px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #fff;
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+    color: rgb(164, 193, 211);
+}
+img{
+    width: 50px;
+}

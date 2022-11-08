@@ -1,0 +1,12 @@
+body{
+    background-image: url(../assets/img/gg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+form{
+    width: 100px;
+    display: flex;
+}
+fieldset{
+    background-color: rgba(83, 81, 77, 0.29);
+}
